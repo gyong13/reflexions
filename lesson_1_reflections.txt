@@ -1,0 +1,32 @@
+Esta es una prueba para el curso y para saber si realmente estoy guardando
+mis archivos en formato txt 
+
+por que es importante VCC Version Contro Center ¡¡ no lo olvides 
+identifica los cambios y permite tener una colaboracion grupal 
+poder probar distintos ajusten en programas muy extensos de manera aislada
+
+epero aprender y entrar en esta comunidad 
+
+Suena demasiado emocionante todos los trabajos y los distintos pensamientos 
+de las personas 
+
+P.D tambien estoy aprendiendo a manejar nano y a poner caritas :)
+
+refleccion num 2 bueno vamos progresando ya abrimos el mismo archivo 
+desde la linea de comandos 
+
+refleccion 3 guardar manualmente si es una buena opcion si hablas de codigo
+aun asi tener alguna versiones guardas en automatico no estarian mal solo 
+en segundo plano y tener los commit personalizados es excelente permite 
+ver que cuando y como hiciste el cambio ayuda a tu cerebro a encontrar la 
+ruta donde lo dejaste y son migajas de pan que te ayudan a tener un mejor 
+entendimiento del programa
+
+aun no entiendo si guarda todo aunque no tenga cambios o los guarda 
+solo los que esten relacionados
+
+Importante git clon clona la carpeta al fichero que este 
+           git diff necesita el id y te marca los cambios 
+
+Te permite equivocarte sin miedo a perder el archivo y encontrar errorer
+mas rapido 

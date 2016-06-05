@@ -7,3 +7,31 @@ muchas areas distintas que cuidar entones entre tu directorio de trabajo
 la fase transtora(stage area) commit y ramas y tu repositorio hay un flujo
 raro continuo pero raro por que algunas secciones pasan a otras y asi 
 
+stagging area is a space when you can uploud your change of diferent 
+programs who has the same logical issue and crate only one commit to that 
+fix
+
+The creation of branch is more like try new things instead of fix thing 
+i say its like branch is a huge step for experimental things and commits
+for fix issues in the branc
+
+recordatorio los cambios en un commit anterior no aparecen en tu programa 
+final por eso si te tienes que regresar debes de generar un branch lo correcto
+seria convertir ese commit en una branch para poderlos unir al final
+
+De preferencia en programas largos hacer un esquema de como se desarrolla tu 
+programa para no generar conflictos en las versiones
+
+Al uni dos ramas se genera una sola y de preferencia hay que eliminar una,
+la que sirvio de experimento no la maestra si es que mezclamos esa, los datos
+no se pierden se unen respecto al tiempo de modificacion. tener claro como
+se mueve el programa y se separa y une es de vital importancia para no
+confundirse.
+
+La opcion de merge te permite unir las ramas de tus archivos tiene como 
+parametros el num de ramas que ingreses y los une con la rama en la que 
+te encuentres actualmente no olvides eso es importante para no mezclar
+tu programa final con las mejoras al menos que las tengas listas
+
+en caso de algun conflicto merge te indica solo hay que checar el 
+documente y ver que variable compite por un dato

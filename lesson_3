@@ -1,1 +1,12 @@
 Estamos en la leccion 3 aprendiendo a manejar git hub
+
+Git hub es el repositorio final de tu sofware tiene la misma funcion que
+git su principal diferencia radica en que tu sfware es open source 
+por lo general es para tener tu version mas actualizada y un respaldo 
+tipo dropbox, difiere en que las actualizaciones solo se realizan cuando
+tu lo decides y no de forma automatica por lo que pudes hacer 10 commit en 
+la version de pc y subir esas 10 como solo 1 commit a hit hub
+
+fork es la version en linea de clone lo cual te permite tener el mismo 
+repositorio,pero no pertenecer al mismo trabaja, aun asi se le da credito 
+al autor por su trabajo,crea una linea independiente del propietario
